@@ -1,0 +1,24 @@
+body {background-color:gray;
+       color-text:red;
+	   font-family: Helvetica, Arial, sans-serif; }
+        h1 {color:blue;
+		    text-align:center;
+			background-color:red;}
+		table {color:red;
+		       background-color:white;
+		       border: 3px solid red;}
+	    h2{color:red;
+		    text-align:center;
+			background-color:blue;}
+		a {color:orange; text-decoration: none;}
+		#main { 
+		width:180px;
+		float:left;
+		background-color:gray;
+		}
+		p {background-color:white;}
+		#footer{clear: both;
+		padding:10px;
+		background-color:#999999;
+		color:white;
+		text-align: center;}
